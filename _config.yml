@@ -1,6 +1,6 @@
 title: # Just an awsome blog
 author: gorobg
-email: -
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Just an an awesome description for starting my new site 
   line in _config.yml. It will appear in your document head meta (for
